@@ -1,0 +1,58 @@
+E:\VB\TECO\TECO\bin\Debug\TECO.exe
+E:\VB\TECO\TECO\bin\Debug\TECO.pdb
+E:\VB\TECO\TECO\bin\Debug\TECO.xml
+E:\VB\TECO\TECO\bin\Debug\MetroFramework.dll
+E:\VB\TECO\TECO\bin\Debug\MetroFramework.Fonts.dll
+E:\VB\TECO\TECO\obj\x86\Debug\TECO.vbprojAssemblyReference.cache
+E:\VB\TECO\TECO\obj\x86\Debug\TECO.Form1.resources
+E:\VB\TECO\TECO\obj\x86\Debug\TECO.Resources.resources
+E:\VB\TECO\TECO\obj\x86\Debug\TECO.vbproj.GenerateResource.cache
+E:\VB\TECO\TECO\obj\x86\Debug\TECO.vbproj.CoreCompileInputs.cache
+E:\VB\TECO\TECO\obj\x86\Debug\TECO.vbproj.CopyComplete
+E:\VB\TECO\TECO\obj\x86\Debug\TECO.exe
+E:\VB\TECO\TECO\obj\x86\Debug\TECO.xml
+E:\VB\TECO\TECO\obj\x86\Debug\TECO.pdb
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\obj\x86\Debug\TECO.exe
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\obj\x86\Debug\TECO.xml
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\obj\x86\Debug\TECO.pdb
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\bin\Debug\TECO.exe
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\bin\Debug\TECO.pdb
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\bin\Debug\TECO.xml
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\bin\Debug\MetroFramework.dll
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\obj\x86\Debug\TECO.vbprojAssemblyReference.cache
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\obj\x86\Debug\TECO.Form1.resources
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\obj\x86\Debug\TECO.Resources.resources
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\obj\x86\Debug\TECO.vbproj.GenerateResource.cache
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\obj\x86\Debug\TECO.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECO\TECO\obj\x86\Debug\TECO.vbproj.CopyComplete
+E:\VB\TECOs\TECO\obj\x86\Debug\TECO.Form1.resources
+E:\VB\TECOs\TECO\obj\x86\Debug\TECO.Resources.resources
+E:\VB\TECOs\TECO\obj\x86\Debug\TECO.vbproj.GenerateResource.cache
+E:\VB\TECOs\TECO\obj\x86\Debug\TECO.exe
+E:\VB\TECOs\TECO\obj\x86\Debug\TECO.xml
+E:\VB\TECOs\TECO\obj\x86\Debug\TECO.pdb
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\obj\x86\Debug\TECO.Form1.resources
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\obj\x86\Debug\TECO.Resources.resources
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\obj\x86\Debug\TECO.vbproj.GenerateResource.cache
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\obj\x86\Debug\TECO.exe
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\obj\x86\Debug\TECO.xml
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\obj\x86\Debug\TECO.pdb
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\bin\Debug\TECO.exe
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\bin\Debug\TECO.pdb
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\bin\Debug\TECO.xml
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\bin\Debug\MetroFramework.dll
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\bin\Debug\TECO.exe.config
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\obj\x86\Debug\TECO.vbprojAssemblyReference.cache
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\obj\x86\Debug\TECO.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\my doc\IPB\Semester 7\Model Simulasi Pertanian\Praktikum\TECOs\TECO\obj\x86\Debug\TECO.vbproj.CopyComplete
+E:\VB\TECOs\TECO\bin\Debug\TECO.exe.config
+E:\VB\TECOs\TECO\bin\Debug\TECO.exe
+E:\VB\TECOs\TECO\bin\Debug\TECO.pdb
+E:\VB\TECOs\TECO\bin\Debug\TECO.xml
+E:\VB\TECOs\TECO\bin\Debug\MetroFramework.dll
+E:\VB\TECOs\TECO\bin\Debug\MetroFramework.Fonts.dll
+E:\VB\TECOs\TECO\obj\x86\Debug\TECO.vbprojAssemblyReference.cache
+E:\VB\TECOs\TECO\obj\x86\Debug\TECO.vbproj.CoreCompileInputs.cache
+E:\VB\TECOs\TECO\obj\x86\Debug\TECO.vbproj.CopyComplete
